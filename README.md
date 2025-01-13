@@ -1,0 +1,1 @@
+Récupere les informations de l'api Rick et Morty, prend le nombre de personnage total et en choisis un aléatoirement puis affiche son nom afin qu'une image du personnage
