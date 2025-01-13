@@ -15,6 +15,10 @@ async function afficherPerso() {
 
 }
 
+// fetch("https://rickandmortyapi.com/api")
+//     .then(response => response.json())
+//     .then(data => console.log(data));
+
 
 button = document.getElementById("button");
 button.addEventListener("click", () => {
